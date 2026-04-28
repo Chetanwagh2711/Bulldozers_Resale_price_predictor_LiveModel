@@ -6,7 +6,7 @@ https://bulldozersresalepricepredictorlivemodel-pkk5zm4sc7ikdbwcbtei3l.streamlit
 
 A Machine Learning-powered web application that predicts the resale price of bulldozers based on historical data and equipment features.
 
-📌 Overview
+📌 Overview:
 
 This project uses historical auction data to estimate the resale value of bulldozers. It helps buyers, sellers, and businesses make data-driven decisions in heavy equipment trading.
 
