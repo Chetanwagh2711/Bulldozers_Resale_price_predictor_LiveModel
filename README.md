@@ -15,11 +15,17 @@ This project uses historical auction data to estimate the resale value of bulldo
 The model is trained on structured data and deployed with an interactive UI for real-time predictions.
 
 🎯 Features
+
 🔍 Predict resale price instantly
+
 📊 Trained on real-world bulldozer sales data
+
 ⚡ Fast and responsive UI (Streamlit-based)
+
 🎨 Attractive and user-friendly interface
+
 📁 Handles missing values and feature engineering
+
 🤖 Uses advanced ML algorithms (Random Forest / others)
 
 
