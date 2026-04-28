@@ -28,5 +28,20 @@ The model is trained on structured data and deployed with an interactive UI for 
 
 🤖 Uses advanced ML algorithms (Random Forest / others)
 
+🧠 Machine Learning Pipeline:
+Data Preprocessing ,
+Handling missing values ,
+Encoding categorical features ,
+Feature engineering (date extraction, etc.) , 
+Model Training , 
+Algorithm: Random Forest Regressor , 
+Hyperparameter tuning using RandomizedSearchCV , 
+Evaluation , 
+Metrics: RMSLE (Root Mean Squared Log Error) , 
+Cross-validation , 
+Deployment , 
+Model saved using joblib , 
+Integrated into Streamlit app .
+
 
 
