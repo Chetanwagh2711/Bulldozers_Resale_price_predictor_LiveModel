@@ -14,7 +14,7 @@ This project uses historical auction data to estimate the resale value of bulldo
 
 The model is trained on structured data and deployed with an interactive UI for real-time predictions.
 
-🎯 Features
+🎯 Features:
 
 🔍 Predict resale price instantly
 
