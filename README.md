@@ -34,7 +34,7 @@ Handling missing values -
 Encoding categorical features -
 Feature engineering (date extraction, etc.) - 
 Model Training - 
-Algorithm: Random Forest Regressor , 
+Algorithm: Random Forest Regressor - 
 Hyperparameter tuning using RandomizedSearchCV , 
 Evaluation , 
 Metrics: RMSLE (Root Mean Squared Log Error) , 
