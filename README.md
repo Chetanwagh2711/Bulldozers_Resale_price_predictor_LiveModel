@@ -35,12 +35,12 @@ Encoding categorical features -
 Feature engineering (date extraction, etc.) - 
 Model Training - 
 Algorithm: Random Forest Regressor - 
-Hyperparameter tuning using RandomizedSearchCV , 
-Evaluation , 
-Metrics: RMSLE (Root Mean Squared Log Error) , 
-Cross-validation , 
-Deployment , 
-Model saved using joblib , 
+Hyperparameter tuning using RandomizedSearchCV - 
+Evaluation - 
+Metrics: RMSLE (Root Mean Squared Log Error) - 
+Cross-validation - 
+Deployment - 
+Model saved using joblib - 
 Integrated into Streamlit app .
 
 
