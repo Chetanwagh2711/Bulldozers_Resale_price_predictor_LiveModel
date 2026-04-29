@@ -26,7 +26,7 @@ The model is trained on structured data and deployed with an interactive UI for 
 
 📁 Handles missing values and feature engineering
 
-🤖 Uses advanced ML algorithms (Random Forest / others)
+🤖 Uses advanced ML algorithms (Random Forest Regressor)
 
 🧠 Machine Learning Pipeline:
 Data Preprocessing -
