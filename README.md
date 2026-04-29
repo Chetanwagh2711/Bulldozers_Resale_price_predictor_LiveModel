@@ -32,8 +32,8 @@ The model is trained on structured data and deployed with an interactive UI for 
 Data Preprocessing -
 Handling missing values -
 Encoding categorical features -
-Feature engineering (date extraction, etc.) , 
-Model Training , 
+Feature engineering (date extraction, etc.) - 
+Model Training - 
 Algorithm: Random Forest Regressor , 
 Hyperparameter tuning using RandomizedSearchCV , 
 Evaluation , 
