@@ -43,5 +43,11 @@ Deployment -
 Model saved using joblib - 
 Integrated into Streamlit app .
 
+🛠️ Tech Stack
+Python - 
+Pandas & NumPy - 
+Scikit-learn - 
+Streamlit - 
+Joblib .
 
 
