@@ -51,4 +51,17 @@ Scikit-learn -
 Streamlit - 
 Joblib .
 
+💡 Usage
+
+Open the app in your browser - 
+Enter bulldozer details such as:
+
+ 1.Year
+2.Product size
+3.Usage band
+4.Enclosure type
+
+Click Predict
+
+Get estimated resale price instantly 💰
 
