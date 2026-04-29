@@ -45,7 +45,8 @@ Integrated into Streamlit app .
 
 🛠️ Tech Stack
 Python - 
-Pandas & NumPy - 
+Pandas & NumPy -  
+matplotlib - 
 Scikit-learn - 
 Streamlit - 
 Joblib .
