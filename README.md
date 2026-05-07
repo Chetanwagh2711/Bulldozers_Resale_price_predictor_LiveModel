@@ -61,7 +61,9 @@ Enter bulldozer details such as:
 3.Usage band
 4.Enclosure type
 
-Click Predict
+Click Predict :
 
 Get estimated resale price instantly 💰
+
+
 
